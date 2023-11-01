@@ -1,2 +1,2 @@
-# CPSC-254_lab7
+# CPSC-254_group_project
 in lab 
