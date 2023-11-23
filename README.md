@@ -1,2 +1,3 @@
 # CPSC-254_group_project
-This project is about a restaurant website. 
+This project is about a restaurant website called Heaven.
+
