@@ -1,0 +1,68 @@
+.container {
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 1.5em;
+}
+
+.menu-font {
+	font-family: "Trebuchet MS", sans-serif;
+	font-size: 14px;
+}
+
+.menu-header {
+	margin: 0;
+	padding-bottom: 1em;
+	border-bottom: 2px solid #050505;
+}
+
+.category {
+	display: grid;
+	grid-template-columns: 1fr;
+	gap: 1.5em;
+	padding: 1.5em 0;
+}
+
+.food {
+	display: flex;
+}
+
+.food-image{
+	width: 80px;
+	height: 120px;
+	flex-shrink: 0;
+	object-fit: cover;
+	margin-right: 1.5em;
+}
+
+.food-text{
+	flex-grow: 1;
+}
+
+.food-header{
+	display: flex;
+	justify-content: space-between;
+	margin: 0;
+}
+
+.food-name{
+	margin-right: 1.5em;
+}
+
+.food-description{
+	line-height: 1.7;
+}
+
+/* Check for Computer Screen */
+@media screen and (min-width: 1200px) {
+	.menu  { 
+			font-size: 16px;
+	}
+	.category  {
+			grid-template-columns: repeat(2, 1fr);
+	}
+	.food-image {
+        	width: 150px;
+        	height: 150px;
+	}
+}
+
