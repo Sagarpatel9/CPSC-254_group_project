@@ -5,8 +5,4 @@ There are four team members who worked on this project and did diffrent part of 
 1. SagarKumar Patel: created homepage and Logo for this webpage (project.html)
 2. Logan Phan: created menu for this webpage. (Menu Project)
 3. Sebastian Villani: created location for this webpage. (locations.html)
-4. David Navarro: created about for this webpage. (254_project) and he aslo combined all code for our team (254_complete_project)
-
-
-
-
+4. David Navarro: created about for this webpage. (254_project) and he also combined all code for our webpage (254_complete_project)
